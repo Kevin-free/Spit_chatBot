@@ -5,8 +5,9 @@
 __pycache__/
 venv*
 *.pyc
-configs/
 data/
+assistant_config.json
+bot_config.json
 *.log
 *.pdf
 config.yml

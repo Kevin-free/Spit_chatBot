@@ -95,3 +95,12 @@ You
 ```
 
 ---
+
+
+You
+
+---
+
+gitignore 只忽略 configs 下的所有文件，configs 文件夹不忽略，怎么写？
+
+---
