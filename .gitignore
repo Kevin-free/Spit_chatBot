@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+.vscode
+.wechaty/
+__pycache__/
+venv*
+*.pyc
+*/bot_config.json
+configs/
+data/
+*.log
+*.pdf
+config.yml
+
+
