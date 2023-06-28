@@ -5,11 +5,9 @@
 __pycache__/
 venv*
 *.pyc
-*/bot_config.json
 configs/
 data/
 *.log
 *.pdf
 config.yml
-
-
+go-cqhttp
