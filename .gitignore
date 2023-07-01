@@ -11,4 +11,3 @@ bot_config.json
 *.log
 *.pdf
 config.yml
-go-cqhttp
